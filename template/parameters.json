@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "gwdnsLabelPrefix": {
-            "value": "electioncanada"
+            "value": "toronto"
         },
         "gwpublicIPAddressName": {
             "value": "gwpip"
         },
         "adDomainName": {
-            "value": "contoso.com"
+            "value": "electioncanada.com"
         },
         "adminUsername": {
-            "value": "amitabha"
+            "value": "rdsgwpoweruser"
         },
         "adminPassword": {
             "value": "Independent12#"
@@ -21,7 +21,7 @@
             "value": "2016-Datacenter"
         },
         "numberOfRdshInstances": {
-            "value": 1
+            "value": 2
         },
         "rdshVmSize": {
             "value": "Standard_B4ms"
