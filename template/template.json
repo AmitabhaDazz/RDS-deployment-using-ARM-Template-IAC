@@ -18,7 +18,7 @@
         "adDomainName": {
             "type": "string",
             "metadata": {
-                "description": "The name of the AD domain. For example contoso.com"
+                "description": "The name of the AD domain. For example ingrammicro.com"
             },
             "defaultValue": "ingrammicro.com"
         },
