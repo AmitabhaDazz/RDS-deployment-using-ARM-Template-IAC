@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "gwdnsLabelPrefix": {
-            "value": "atlantic"
+            "value": "returning_office"
         },
         "gwpublicIPAddressName": {
             "value": "gwpip"
         },
         "adDomainName": {
-            "value": "electioncanada.com"
+            "value": "elections.ca"
         },
         "adminUsername": {
             "value": "rdsgwpoweruser"
